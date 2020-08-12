@@ -25,7 +25,7 @@ Setup before Running the porject ->
 
         select * from voter;
 3. There are 4 packages in this project ,
-A)Files starting with voter got to "Voter" package,
+A)Files starting with voter got to "voter" package,
 B)Files Starting with party go to "party" package,
 C)Files starting with partyMember go to "partyMember" package.
 D)Rest of the files go to the Default Package.
